@@ -1,9 +1,13 @@
 # awesome-codebreakthrough
 A list of custom projects by members of the CodeBreakthrough Mentorship Program
 
-Evo Labs - https://gitea.dgov.io/DGF/dgf-prototype/  
-Decentralized reputation protocol
+### Evo Labs
 
-Trading Bot - 
+Source: https://gitea.dgov.io/DGF/dgf-prototype/  
+Decentralized reputation protocol. 
 
-Exam App - 
+Solidity, Noode.js, React
+
+### Trading Bot - 
+
+### Exam App - 
